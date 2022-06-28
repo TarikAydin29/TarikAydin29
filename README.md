@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/tar%C4%B1k-ayd%C4%B1n-05bb28192/" target="_blank"><https://"img.shields.io/badge/LinkedIn-%230077B5.svg?&style=square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/tar%C4%B1k-ayd%C4%B1n-05bb28192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
