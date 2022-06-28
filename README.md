@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/tarkydn/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+<a href="https://www.instagram.com/tarkydn/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a><a href="https://www.linkedin.com/in/tar%C4%B1k-ayd%C4%B1n-05bb28192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://www.linkedin.com/in/tar%C4%B1k-ayd%C4%B1n-05bb28192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
