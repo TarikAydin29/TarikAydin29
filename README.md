@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/tar%C4%B1k-ayd%C4%B1n-05bb28192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%50.svg?&style=square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 <!--
 **TarikAydin29/TarikAydin29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
